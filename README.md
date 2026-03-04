@@ -41,7 +41,7 @@ We are going to be using the Jest library to build a program capable of converti
 
 | Function name     | Description                                                           |
 | ----------------- | --------------------------------------------------------------------- |
-| fromDollarToYen   | Receives a dollar amount and returns the equivalent amount in Japan Yen |
+| fromDollarToYen   | Receives a dollar amount and returns the equivalent amount in Japanese Yen |
 | fromEuroToDollar  | Receives a Euro amount and returns the equivalent amount in US Dollar |
 | fromYenToPound    | Receives a Yen amount and returns the equivalent amount in England Pound |
 
